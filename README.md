@@ -31,6 +31,7 @@ Construir uma calculadora funcional com operações básicas (adição, subtraç
 3. Instale as dependências:
    ```bash
    npm install
+   npm install style-components
    ```
 4. Inicie o servidor de desenvolvimento:
    ```bash
