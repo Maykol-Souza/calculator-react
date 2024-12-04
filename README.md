@@ -22,7 +22,7 @@ Construir uma calculadora funcional com operações básicas (adição, subtraç
 ## 📂 **Como Executar o Projeto**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-react.git
+   git clone https://github.com/Maykol-Souza/calculator-react.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
@@ -36,7 +36,7 @@ Construir uma calculadora funcional com operações básicas (adição, subtraç
    ```bash
    npm start
    ```
-5. Abra o navegador e acesse: [http://localhost:3000](http://localhost:3000).
+5. Abra o navegador e acesse o localhost com seu respectivo endereço.
 
 ## 🌟 **O que Aprendi?**
 Durante o desenvolvimento deste projeto, aprofundei conhecimentos em:
