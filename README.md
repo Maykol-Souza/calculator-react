@@ -1,7 +1,7 @@
 
 # Calculadora em React
 
-Este é o meu primeiro projeto de uma calculadora desenvolvido em React, criado durante a formação **React Developer**. O objetivo principal foi consolidar os conceitos fundamentais da biblioteca React, como componentes, estados, eventos e o uso de hooks.
+Este é o meu primeiro projeto de uma calculadora desenvolvido em React, criado durante a formação **React Developer**. O objetivo principal foi consolidar os conceitos fundamentais da biblioteca React, como componentes, estados, eventos.
 
 ## 🎯 **Objetivo do Projeto**
 Construir uma calculadora funcional com operações básicas (adição, subtração, multiplicação e divisão), aplicando as melhores práticas aprendidas no curso. O foco esteve em:
@@ -43,9 +43,3 @@ Construir uma calculadora funcional com operações básicas (adição, subtraç
 Durante o desenvolvimento deste projeto, aprofundei conhecimentos em:
 - Estruturação de projetos React.
 - Uso de estados e eventos para criar interatividade.
-- Práticas recomendadas para escrita de código limpo e organizado.
-
-## 📝 **Próximos Passos**
-- Adicionar mais funcionalidades, como operações avançadas (exponenciação, raiz quadrada, etc.).
-- Melhorar a responsividade e o design da interface.
-- Implementar testes para validação das operações.
